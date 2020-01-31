@@ -12,3 +12,5 @@ Download, install, configure and start PHP using ansible playbook.
 
 Access the little web server over the web.
 
+Download ansible playbook and upload in Github repo
+
