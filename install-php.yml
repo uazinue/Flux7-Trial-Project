@@ -11,4 +11,4 @@
             copy:
               dest: "/var/www/html/index.html"
               content:
-                Welcome To Flux7!
+                Welcome To Flux7! version 2
