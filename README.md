@@ -1,5 +1,5 @@
-# Flux7-architecture
-FLUX7 TRAIL PROJECT FLOW
+# Flux7 Trail Project
+
 
 
 Provision the infrastructure; VPC, subnet, security group, IGW, route table
