@@ -1,4 +1,4 @@
-# Flux7 Trail Project
+# Flux7 Trial Project
 
 
 
