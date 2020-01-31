@@ -1,0 +1,14 @@
+---
+- hosts: localhost
+  tasks:
+          - name: Install a http pkg
+            yum: name=httpd state=latest
+          - name: start the httpd service
+            service: name=httpd state=restarted
+          - name: Ensure httpd starts on boot
+            service: name=httpd state=started enabled=yes
+          - name: create index.html file and add Welcome To Flux7
+            copy:
+              dest: "/var/www/html/index.html"
+              content:
+                Welcome To Flux7!
