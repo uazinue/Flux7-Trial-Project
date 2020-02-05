@@ -4,7 +4,7 @@
 
 Provision the infrastructure; VPC, subnet, security group, IGW, route table
 
-Create Ec2 instanceand install ansible
+Create Ec2 instance and install ansible
 
 Develop playbook 
 
