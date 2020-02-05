@@ -10,5 +10,4 @@
           - name: create index.html file and add Welcome To Flux7
             copy:
               dest: "/var/www/html/index.html"
-              content:
-                Welcome To Flux7!
+              content: "<html><h1>Welcome To Flux7!</h1></html>"
